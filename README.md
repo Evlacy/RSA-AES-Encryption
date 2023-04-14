@@ -1,15 +1,11 @@
-# R4.C.08 (Cryptography) - Overview
+# Overview
 
-The goal of this course is to build a secured file transfer application in Python. 
+The goal is to build a secured file transfer application in Python. 
 The client-server architecture is already given in this repository, all you have to do is to add your code to encrypt and decrypt messages and files, and to compute files' hashes.
 
 # Goal
 
 The server will wait the client connection. Once it is connected, the server will securely send a binary file to the client which will save it to its own disk.
-
-# What to do
-
-Here a step-by-step todo list to build the required application:
 
 -------- Secure the key transfer with RSA ----------
 
