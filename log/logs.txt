@@ -1,0 +1,5 @@
+2023-04-14 20:18:34
+IP : 192.168.56.1 / Port : XX
+Hostname : DESKTOP-D
+File : cat.jpg
+
